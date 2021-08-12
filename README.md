@@ -1,4 +1,4 @@
-## Data Reporting - Storytelling Case
+## Data Reporting - Storytelling Case - Ifood 
 ---
 Neste case, foi trabalhado análise de dados e Storytelling dos meus dados das plataformas Youtube, Spotify e Netflix. 
 Para análise exploratória foi usado Python através das bibliotecas pandas, seaborn e matplotlib. 
