@@ -1,9 +1,9 @@
 ## Data Reporting - Storytelling Case - Ifood 
 ---
-Neste case, foi trabalhado análise de dados e Storytelling dos meus dados das plataformas Youtube, Spotify e Netflix. 
-Para análise exploratória foi usado Python através das bibliotecas pandas, seaborn e matplotlib. 
+Neste case, constitui - se na análise de dados e Storytelling dos meus dados das plataformas Youtube, Spotify e Netflix. 
+Para análise exploratória foi utilizado Python através das bibliotecas pandas, seaborn e matplotlib. 
 
-Para a visualização de dados foi usado o Tableau. 
+Para a visualização de dados o Tableau. 
 
 Abaixo estão detalhadas as informações sobre a análise exploratória dos dados, que foram utilizados para a construção de um dashboard no software Tableau.
 
